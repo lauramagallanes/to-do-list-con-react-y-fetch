@@ -1,12 +1,25 @@
+button {
 
-/* 
+    color: transparent !important;
+    background: transparent !important;
+    border-color: transparent !important;
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
 
-*/
+}
+
+button:hover {
+
+    color: black !important;
+
+
+}
+
+body {
+    background: #abc530;
+}
+
+h1 {
+    text-align: center;
+    color: #ebd8d9;
+    font-size: 4rem;
+}
